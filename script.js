@@ -18,6 +18,7 @@ function generateDadJoke(){
 
     
 }
+//add jokes from other APIs?
 /* function generateJoke(){
     const config ={
         headers:{
